@@ -15,6 +15,9 @@
 - Redux
 - Linters
 
+## Screenshot
+spaceTravellersHub.png![image](https://user-images.githubusercontent.com/44606356/209294640-475f8e42-60fb-45a4-80b7-fdab0d7edcab.png)
+
 
 ## Getting Started
 
